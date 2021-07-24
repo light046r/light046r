@@ -16,12 +16,11 @@ Hai Nama saya : M.Rizki Ramadhan, Umur : 15 TH, Seorang pelajar, Saya tinggal di
 - 📝 I'm currently working on [`RR018`](https://rizkiramadhan4617.github.io) 
 - 📫 Contact me: light.046r@gmail.com.
 
-#### a language program that I know little about
+#### Programs that I know little
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-
+[![CSS3 Badge](https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=node.js)](#) 
 [![Python Badge](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)](#)
 
 <details>
@@ -37,7 +36,7 @@ Hai Nama saya : M.Rizki Ramadhan, Umur : 15 TH, Seorang pelajar, Saya tinggal di
 
 #### Github Stats
 
-![RR018 github stats](https://github-readme-stats.vercel.app/api?username=rizkiramadhan4617&count_private=true&theme=tokjuicyfresh&hide=contribs,prs)
+![RR018 github stats](https://github-readme-stats.vercel.app/api?username=rizkiramadhan4617&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 
   <img src="https://github-profile-trophy.vercel.app/?username=rizkiramadhan4617&theme=juicyfresh" /><a>
