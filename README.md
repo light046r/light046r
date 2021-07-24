@@ -36,9 +36,6 @@ Hai Nama saya : M.Rizki Ramadhan, Umur : 15 TH, Seorang pelajar, Saya tinggal di
 
 #### Github Stats
 
-![RR018 github stats](https://github-readme-stats.vercel.app/api?username=rizkiramadhan4617&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-
   <img src="https://github-profile-trophy.vercel.app/?username=rizkiramadhan4617&theme=juicyfresh" /><a>
 </p>
 
