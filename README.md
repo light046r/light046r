@@ -31,7 +31,7 @@ Hai Nama saya : M.Rizki Ramadhan, Umur : 15 TH, Seorang pelajar, Saya tinggal di
 <br >
 
 <p align="center">
-<img src="https://k.top4top.io/p_2031ybvsw4.jpg" width="800" height="350"/>
+<img src="https://k.top4top.io/p_2031ybvsw4.jpg" width="800" height="400"/>
 </p>
   
 <br>
