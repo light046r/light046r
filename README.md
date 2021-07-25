@@ -22,7 +22,7 @@ Hai Nama saya : M.Rizki Ramadhan, Umur : 15 TH, Seorang pelajar, Saya tinggal di
 
 [![CSS3 Badge](https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=node.js)](#) 
 [![Python Badge](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)](#)
-
+[![Saweria Badge](https://img.shields.io/badge/-saweria-black?style=for-the-badge&logo=saweria)](#)
 <details>
 <summary>
   More stuff about me
