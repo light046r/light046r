@@ -33,6 +33,10 @@ Hai Nama saya : M.Rizki Ramadhan, Umur : 15 TH, Seorang pelajar, Saya tinggal di
 <p align="center">
 <img src="https://k.top4top.io/p_2031ybvsw4.jpg" width="800" height="350"/>
 </p>
+ 
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+
+</a>
   
 </details>
 
