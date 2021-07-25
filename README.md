@@ -25,8 +25,8 @@ Hai Nama saya : M.Rizki Ramadhan, Umur : 15 TH, Seorang pelajar, Saya tinggal di
 
 ### Support me
 
-[![Mail Badge](https://img.shields.io/badge/-Saweria-e74c3c?style=flat&labelColor=e74c3c&logo=saweria&logoColor=white)](https://saweria.co/RR018)
-
+[![Saweria Badge](https://img.shields.io/badge/-Saweria-e74c3c?style=flat&labelColor=e74c3c&logo=saweria&logoColor=black)](https://saweria.co/RR018)
+[![Dollar Badge](https://img.shields.io/badge/-Saweria-e74c3c?style=flat&labelColor=e74c3c&logo=dollar-sign&logoColor=black)](https://6285788555068)
 
 
 <details>
