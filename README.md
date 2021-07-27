@@ -13,7 +13,7 @@ Hai Nama saya : M.Rizki Ramadhan, Umur : 15 TH, Seorang pelajar, Saya tinggal di
 - 😄 I live in Indonesia in Palembang city.
 - ⚡ My hobbies are playing football and basketball.
 - 👀 I'm currently focusing on **JavaScript**.
-- 📝 I'm currently working on [`RR018`](https://rizkiramadhan4617.github.io) 
+- 📝 I'm currently working on [`RR018`](https://rr018.vercel.com) 
 - 📫 Contact me: light.046r@gmail.com.
 
 #### Programs that I know little
